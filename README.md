@@ -1,1 +1,1 @@
-# assignment1.2-dos
+# DOS implementation in python using socket
